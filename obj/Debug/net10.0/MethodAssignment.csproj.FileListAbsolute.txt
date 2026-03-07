@@ -1,0 +1,14 @@
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\bin\Debug\net10.0\MethodAssignment.exe
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\bin\Debug\net10.0\MethodAssignment.deps.json
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\bin\Debug\net10.0\MethodAssignment.runtimeconfig.json
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\bin\Debug\net10.0\MethodAssignment.dll
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\bin\Debug\net10.0\MethodAssignment.pdb
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\MethodAssignment.AssemblyInfo.cs
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\MethodAssignment.dll
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\refint\MethodAssignment.dll
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\MethodAssignment.pdb
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\MethodAssignment.genruntimeconfig.cache
+C:\Users\taiya\OneDrive\Documents\GitHub\MethodAssignment\obj\Debug\net10.0\ref\MethodAssignment.dll
