@@ -1,40 +1,22 @@
-﻿ using System;
+using System;
 
-class Program
+namespace MethodAssignment
 {
-    static void Main()
+    class Program
     {
-        // Create an object of the MathOperations class
-        MathOperations math = new MathOperations();
-
-        // Ask the user for the first number
-        Console.WriteLine("Enter the first number:");
-        int number1 = Convert.ToInt32(Console.ReadLine());
-
-        // Ask the user for the second number (optional)
-        Console.WriteLine("Enter the second number (press Enter to skip):");
-        string input = Console.ReadLine();
-
-        int result;
-
-        // Check if the user entered a second number
-        if (string.IsNullOrEmpty(input))
+        static void Main()
         {
-            // Call the method with only the first number
-            result = math.AddNumbers(number1);
-        }
-        else
-        {
-            // Convert input to integer
-            int number2 = Convert.ToInt32(input);
+            // Create an object of the MathOperations class
+            MathOperations math = new MathOperations();
 
             // Call the method with two numbers
-            result = math.AddNumbers(number1, number2);
+            math.DoMath(10, 20);
+
+            // Call the method again using named parameters
+            math.DoMath(firstNumber: 15, secondNumber: 30);
+
+            // Keep the console window open
+            Console.ReadLine();
         }
-
-        // Display the result
-        Console.WriteLine("The result is: " + result);
-
-        Console.ReadKey();
     }
 }
