@@ -1,12 +1,21 @@
 using System;
 
-// This class contains a method that performs a math operation
-public class MathOperations
+namespace MethodAssignment
 {
-    // Method that takes two integers, the second one is optional
-    public int AddNumbers(int num1, int num2 = 0)
+    // This class contains the method for the assignment
+    class MathOperations
     {
-        // Perform a math operation (addition)
-        return num1 + num2;
+        // This void method takes two integers
+        public void DoMath(int firstNumber, int secondNumber)
+        {
+            // Perform a math operation on the first integer
+            int result = firstNumber * 2;
+
+            // Display the result
+            Console.WriteLine("Result of first number: " + result);
+
+            // Display the second integer
+            Console.WriteLine("Second number: " + secondNumber);
+        }
     }
 }
